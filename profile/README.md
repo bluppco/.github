@@ -21,7 +21,7 @@ We have opensourced our majority work and are open to criticism.
 
 ## Services
 - Website.
-- Dynamic website. (we do not recommend it due to reasons above. If you still want it, we fully support you.)
+- Dynamic website. (we do not recommend it most cases due to reasons above. If you still want it, we fully support you.)
 - Backend APIs.
 - Backend micro services API.
 - Blogs - Majorly depends on the frequency of posting. In most cases, you wish to have it but this lasts only for a few weeks. We do not recommend it due to reasons above. If you still want it, we fully support you.
@@ -48,11 +48,13 @@ We plan to build 5 websites per week.
 ### Portfolio
 1. OseNorth - [Codebase](https://github.com/bluppco/osenorth)
 \
+
     ✅ Opensourced
     ⚠️ Is not a client.
     💻 Astro
 2. OpenThrive - [Codebase](https://github.com/bluppco/openthrive)
 \
+
     ✅ Opensourced
     ⚠️ Is not a client.
     💻 Astro
