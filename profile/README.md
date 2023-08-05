@@ -61,6 +61,6 @@ We plan to build 5 websites per week.
     💻 Astro
 
 
-✅ Yes
-⚠️ Not Yet!
+✅ Yes\
+⚠️ Not Yet!\
 💻 Technology
