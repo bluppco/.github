@@ -50,13 +50,15 @@ We plan to build 5 websites per week.
 \
 
     ✅ Opensourced
+    \
     ⚠️ Is not a client.
+    \
     💻 Astro
 2. OpenThrive - [Codebase](https://github.com/bluppco/openthrive)
 \
 
-    ✅ Opensourced
-    ⚠️ Is not a client.
+    ✅ Opensourced\
+    ⚠️ Is not a client.\
     💻 Astro
 
 
