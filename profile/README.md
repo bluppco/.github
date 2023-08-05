@@ -47,7 +47,6 @@ We plan to build 5 websites per week.
 
 ### Portfolio
 1. OseNorth - [Codebase](https://github.com/bluppco/osenorth)
-\
 
     ✅ Opensourced
     \
@@ -55,7 +54,7 @@ We plan to build 5 websites per week.
     \
     💻 Astro
 2. OpenThrive - [Codebase](https://github.com/bluppco/openthrive)
-\
+
 
     ✅ Opensourced\
     ⚠️ Is not a client.\
