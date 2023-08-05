@@ -46,7 +46,8 @@ Don't ask us to prove anything. Throw a problem at us and surprise yourself with
 We plan to build 5 websites per week.
 
 ### Completed
-1. OseNorth - [Github](https://github.com/bluppco/osenorth)
+1. OseNorth - [Codebase](https://github.com/bluppco/osenorth)
 \
     ✅ Opensourced
     ⚠️ Client
+    💻 Astro, Cloudflare
