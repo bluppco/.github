@@ -7,10 +7,11 @@ We love to code and consider excess taking a wastage of time. We refrain from ge
 
 ## Problem
 - Currently the internet is filled with bloated technologies like Wordpress making the user experience slow.
+- So much of internet bandwidth is wasted on unoptimised codebase, images and assets.
 - Companies invest heavily on design and development to get the first version live but second or third versions never go live, due to costing.
-- Even maintaining plugins and servers become a hassle.
-- Even the core team developers do not care much about the existing stack. They don't wish to get into updating wordpress versions or NextJS packages as well.
-- Managing company is a hassle. When your job is to make money, you should focus purely on clients.
+- Maintaining plugins and servers become a hassle.
+- The core team developers do not care much about the existing stack. They don't wish to get into updating wordpress versions or NextJS packages as well. They focus on new work.
+- When your job is to make money, not focus on your website.
 
 ## Solution
 - We manage everything for you. Everything from codebase, servers, CDNs and your content.
@@ -20,10 +21,10 @@ We love to code and consider excess taking a wastage of time. We refrain from ge
 
 ## Services
 - Website.
-- Dynamic website. (we do not recomment it due to reasons above. If you still want it, we fully support you.)
+- Dynamic website. (we do not recommend it due to reasons above. If you still want it, we fully support you.)
 - Backend APIs.
 - Backend micro services API.
-- Blogs (Majorly depends on the frequency of posting. In most cases, you wish to have it but this lasts only for a few weeks. We do not recomment it due to reasons above. If you still want it, we fully support you.)
+- Blogs - Majorly depends on the frequency of posting. In most cases, you wish to have it but this lasts only for a few weeks. We do not recommend it due to reasons above. If you still want it, we fully support you.
 
 ## Pricing
 - We work on a monthly retainer and charge as per the requirement, but it's a promise that it's much cheaper from the market. We would normally allow 3 changes per month which are not design changes or major structural changes and post that, it becomes ₹/3 changes.
