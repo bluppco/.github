@@ -1,7 +1,9 @@
 # Blupp Co
 We are a technology company with the team size of 2 and enough skillset to make a team of 20 feel shy.
 
-We love to code and consider takling a wastage of time. We avoid too many calls and focus on dealing with async work.
+We love to code and consider takling a wastage of time. We avoid too many calls and focus on dealing with async work. We work over Trello and Emails and respect each other's time.
+
+We have opensourced our majority work and are open to criticism.
 
 ## Problem
 - Currently the internet is filled with bloated technologies like Wordpress making the user experience slow.
@@ -34,6 +36,14 @@ We love to code and consider takling a wastage of time. We avoid too many calls 
 - Wordpress.
 - SEO.
 - Chat on WhatsApp. We believe in emails.
+- Work over weekends. Weekends are kept for internal company work.
+- Deploy on Fridays. We deploy to production on Thursdays and take the Friday light (If everything is okay).
 
 ## Want to check our capability?
 Don't ask us to prove anything. Throw a problem at us and surprise yourself with our approach. We might ask for an upfront charge, if you plan to test us. If we go ahead, the upfront gets settled.
+
+## Hustle
+We plan to build 5 websites per week. The status will be updated here.
+
+### Week 1
+1. OseNorth - (Github)[https://github.com/bluppco/osenorth]
