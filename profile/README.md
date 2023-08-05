@@ -1,7 +1,7 @@
 # Blupp Co
 We are a technology company with the team size of 2 and enough skillset to make a team of 20 feel shy.
 
-We love to code and consider excess taking a wastage of time. We refrain from getting on too many calls and focus on dealing with async work.
+We love to code and consider takling a wastage of time. We avoid too many calls and focus on dealing with async work.
 
 ## Problem
 - Currently the internet is filled with bloated technologies like Wordpress making the user experience slow.
