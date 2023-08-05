@@ -31,7 +31,9 @@ We love to code and consider excess taking a wastage of time. We refrain from ge
 - If we get on a call, we charge for the call.
 
 ## What we don't do
-We don't design.
+- Design.
+- Wordpress.
+- SEO.
 
 ## Want to check our capability?
-Don't ask us to prove anything. Throw a problem at us and surprise yourself with our approach. We might ask for an upfront charge if you plan to test us.
+Don't ask us to prove anything. Throw a problem at us and surprise yourself with our approach. We might ask for an upfront charge, if you plan to test us.
