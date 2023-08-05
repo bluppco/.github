@@ -25,7 +25,7 @@ We love to code and consider excess taking a wastage of time. We refrain from ge
 - Blogs - Majorly depends on the frequency of posting. In most cases, you wish to have it but this lasts only for a few weeks. We do not recommend it due to reasons above. If you still want it, we fully support you.
 
 ## Pricing
-- We work on a monthly retainer and charge as per the requirement, but it's a promise that it's much cheaper from the market. We would normally allow 3 changes per month which are not design changes or major structural changes and post that, it becomes ₹/3 changes.
+- We work on a monthly retainer and charge as per the requirement, but it's a promise that it's much cheaper from the market. We would normally allow 3 changes per month which are not design changes or major structural changes and post that, it becomes ₹/3 changes. You email us the request and we get to work ASAP.
 - We might charge one time development cost and usally deliver the website in a week's time. The suppostion is the design is finalised and there's no to and fro.
 - If we get on a call, we charge for the call.
 
@@ -33,6 +33,7 @@ We love to code and consider excess taking a wastage of time. We refrain from ge
 - Design.
 - Wordpress.
 - SEO.
+- Chat on WhatsApp. We believe in emails.
 
 ## Want to check our capability?
 Don't ask us to prove anything. Throw a problem at us and surprise yourself with our approach. We might ask for an upfront charge, if you plan to test us.
