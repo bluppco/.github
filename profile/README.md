@@ -44,6 +44,9 @@ Don't ask us to prove anything. Throw a problem at us and surprise yourself with
 ## Hustle
 We plan to build 5 websites per week.
 
+## Intent
+The intent to create this to show competency and not to copy anybodys work or code.
+
 ### Portfolio
 1. OseNorth - [Codebase](https://github.com/bluppco/osenorth)
 
