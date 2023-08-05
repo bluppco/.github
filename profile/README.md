@@ -43,7 +43,9 @@ We have opensourced our majority work and are open to criticism.
 Don't ask us to prove anything. Throw a problem at us and surprise yourself with our approach. We might ask for an upfront charge, if you plan to test us. If we go ahead, the upfront gets settled.
 
 ## Hustle
-We plan to build 5 websites per week. The status will be updated here.
+We plan to build 5 websites per week.
 
-### Week 1
-1. OseNorth - (Github)[https://github.com/bluppco/osenorth]
+### Completed
+1. OseNorth - [Github](https://github.com/bluppco/osenorth)
+✅ Opensourced
+⚠️ Client
