@@ -47,5 +47,6 @@ We plan to build 5 websites per week.
 
 ### Completed
 1. OseNorth - [Github](https://github.com/bluppco/osenorth)
+
 ✅ Opensourced
 ⚠️ Client
