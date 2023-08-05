@@ -1,9 +1,9 @@
 # Blupp Co
 We are a technology company with the team size of 2 and enough skillset to make a team of 20 feel shy.
 
-We love to code and consider takling a wastage of time. We avoid too many calls and focus on dealing with async work. We work over Trello and Emails and respect each other's time.
+We love to code and consider takling a wastage of time. We avoid too many calls and focus on dealing with async work. We work over Trello and Emails.
 
-We have opensourced our majority work and are open to criticism.
+We have opensourced our majority work and are open to criticism. We take the codebase private once we onboard the client.
 
 ## Problem
 - Currently the internet is filled with bloated technologies like Wordpress making the user experience slow.
@@ -22,9 +22,8 @@ We have opensourced our majority work and are open to criticism.
 ## Services
 - Website.
 - Dynamic website. (we do not recommend it most cases due to reasons above. If you still want it, we fully support you.)
-- Backend APIs.
-- Backend micro services API.
-- Blogs - Majorly depends on the frequency of posting. In most cases, you wish to have it but this lasts only for a few weeks. We do not recommend it due to reasons above. If you still want it, we fully support you.
+- Backend APIs - Server and serverless.
+- Blogs - Majorly depends on the frequency of posting. In most cases, you wish to have it but this lasts only for a few weeks. We do not recommend it due to reasons above. If you still want it, we fully support you. Sanity is a good choice.
 
 ## Pricing
 - We work on a monthly retainer and charge as per the requirement, but it's a promise that it's much cheaper from the market. We would normally allow 3 changes per month which are not design changes or major structural changes and post that, it becomes ₹/3 changes. You email us the request and we get to work ASAP.
