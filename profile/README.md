@@ -50,4 +50,9 @@ We plan to build 5 websites per week.
 \
     ✅ Opensourced
     ⚠️ Client
-    💻 Astro, Cloudflare
+    💻 Astro
+2. OpenThrive - [Codebase](https://github.com/bluppco/openthrive)
+\
+    ✅ Opensourced
+    ⚠️ Client
+    💻 Astro
