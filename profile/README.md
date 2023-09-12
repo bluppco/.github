@@ -1,7 +1,7 @@
 # Blupp Co
 We are a technology company with the team size of 2 and enough skillset to make a team of 20 feel shy.
 
-We love to code and consider takling a wastage of time. We avoid too many calls and focus on dealing with async work. We work over Trello and Emails.
+We love to code and consider takling a wastage of time. We avoid too many calls and focus on dealing with async work. We work over Linear, Slack and Emails.
 
 We have opensourced our majority work and are open to criticism. We take the codebase private once we onboard the client.
 
@@ -42,7 +42,7 @@ We have opensourced our majority work and are open to criticism. We take the cod
 Don't ask us to prove anything. Throw a problem at us and surprise yourself with our approach. We might ask for an upfront charge, if you plan to test us. If we go ahead, the upfront gets settled.
 
 ## Hustle
-We plan to build 5 websites per week.
+We plan to build 1 website per week.
 
 ## Intent
 The intent to create this to show competency and not to copy anybodys work or code.
